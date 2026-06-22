@@ -1,0 +1,4 @@
+gitsource
+minsearch
+openai
+python-dotenv

@@ -1,0 +1,20 @@
+# temporal files when the file (Microsoft office 365 file) is open
+**/~$*.*
+# Project folders
+conda/
+build/
+.tmp
+.env
+.envrc
+.ipynb_checkpoints/
+__pycache__/
+*.egg-info
+.venv/
+# IDE folders
+*.vscode/
+*.cursor/
+*.windsurf/
+.github/
+.claude/
+# repo clone
+.zoomcamp_content/
