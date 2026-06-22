@@ -1,7 +1,10 @@
 [project]
 name = "llm-zoomcamp-2026"
 version = "0.1.0"
-description = "A project scaffold for the 2026 LLM Zoomcamp."
+description = "LLM Zoomcamp 2026 assignments and notes repository."
+authors = [
+    {name = "Sergio Veliz"},
+]
 readme = "README.md"
 requires-python = ">=3.12"
 dynamic = ["dependencies"]
